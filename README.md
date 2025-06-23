@@ -223,4 +223,4 @@ DAO participants have real governance power to:
 - **Quorum**: 10% of active voting power must participate for valid results
 
 ## Important Note
-> This license applies to self-hosted installations of InSpatial software. Users of the managed InSpatial platform are automatically assigned the appropriate license based on their selected subscription plan. Managed platform users do not need to concern themselves with the licensing details herein, as their usage rights are determined by their service agreement.
+> This license applies to self-hosted installations or use of InSpatial software. Users of the managed InSpatial platform (The "InSpatial App") are automatically assigned the appropriate license based on their selected subscription plan. Managed platform users do not need to concern themselves with the licensing details herein, as their usage rights are determined by their service agreement.
