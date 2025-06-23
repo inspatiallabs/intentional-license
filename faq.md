@@ -15,8 +15,8 @@
 |----------|--------|
 | **Do I need this license if I use the managed InSpatial platform?** | No. Managed platform users are automatically licensed based on their subscription plan. This license only applies to self-hosted installations. |
 | **What is a "Competing Use"?** | Any commercial product/service that: (1) substitutes for InSpatial, (2) substitutes for InSpatial's commercial offerings, or (3) offers substantially similar functionality. |
-| **When do I need an Enterprise License?** | You need one if: (1) your company has >$100k annual revenue, (2) you're making a Competing Use, or (3) you want to whitelabel the software. |
-| **Can I use this for my startup?** | Yes! If your revenue is under $100k annually and you're not creating a competing product, you can use it freely with attribution. |
+| **When do I need an Enterprise License?** | You need one if: (1) your company has >$10m annual revenue, (2) you're making a Competing Use, or (3) you want to whitelabel the software. |
+| **Can I use this for my startup?** | Yes! If your revenue is under $10m annually and you're not creating a competing product, you can use it freely with attribution. |
 | **What's the "Made with InSpatial" requirement?** | Non-enterprise users must display attribution in a visible location (splash screen, footer, about dialog). Enterprise licenses can waive this. |
 
 ## DAO Governance Questions
