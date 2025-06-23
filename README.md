@@ -1,4 +1,4 @@
-    
+```ascii    
                             ↙↙↙↙↙↙↙↙↙↙                                                                        
                          ↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙                                                                    
                       ↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙↙                                                               
@@ -34,7 +34,7 @@
                       ↙↙↙↙↙↙↙           ↙↙↙↙↙↙                                                            
                           ↙↙↙↙↙↙     ↙↙↙↙↙↙                                                               
                              ↙↙↙↙↙↙↙↙↙↙
-    
+```
             ╔══════════════════════════════════════════╗
             ║                  InSpatial               ║
             ║     Copyright (c) 2026 InSpatial Labs    ║
@@ -142,6 +142,7 @@ Except for displaying the License Details and identifying InSpatial Labs as the 
 
 ## Delayed Open Source (Apache License, Version 2.0 for Non-Commercial Use)
 
+```ascii
        _    ____   _    ____ _   _ _____   _     ___ ____ _____ _   _ ____  _____
       / \  |  _ \ / \  / ___| | | | ____| | |   |_ _/ ___| ____| \ | / ___|| ____|
      / _ \ | |_) / _ \| |   | |_| |  _|   | |    | | |   |  _| |  \| \___ \|  _|
@@ -149,7 +150,7 @@ Except for displaying the License Details and identifying InSpatial Labs as the 
    /_/   \_\_| /_/   \_\____|_| |_|_____| |_____|___\____|_____|_| \_|____/|_____|
                                 Version 2.0, January 2004
                             http://www.apache.org/licenses/
-
+```
 
 InSpatial Labs hereby irrevocably grants you an additional license to use the Software under the Apache License, Version 2.0 (the "Apache License") that is effective on the first anniversary of the date InSpatial Labs makes each specific version of the Software generally and/or publicly available. On or after that date, you may use that specific version of the Software under the Apache License, Version 2.0, but only for Non-Commercial Use. Full commercial use, including any Competing Use or whitelabeling, remains subject to obtaining a separate Enterprise License from InSpatial Labs.
 
