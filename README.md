@@ -198,7 +198,7 @@ DAO participants have real governance power to:
 2. **Accept/Reject Pull Requests** - Vote on significant code contributions and architectural changes
 3. **Allocate Treasury Funds** - Direct funding to bounties, grants, and development initiatives
 4. **Modify License Terms** - Propose and vote on changes to this Intentional License
-5. **Set Revenue Thresholds** - Adjust the $100k enterprise licensing threshold annually
+5. **Set Revenue Thresholds** - Adjust the $10m enterprise licensing threshold annually
 6. **Grant License Exemptions** - Waive licensing requirements for open source projects or nonprofits
 7. **Release Features Early** - Vote to release enterprise features to community edition
 8. **Approve Enterprise Deals** - Review and approve custom enterprise licensing agreements
