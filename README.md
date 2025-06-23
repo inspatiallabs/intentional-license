@@ -55,8 +55,6 @@
 ╚══════╝╚═╝ ╚═════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝     ╚═╝╚═╝ ╚═════╝
 ``` 
 
-# INTENTIONAL LICENSE 1.0
-
 ## Preamble
 
 In an era where open-source innovation drives technological advancement, the spirit of collaboration and shared progress is paramount. However, traditional open-source licensing models often concentrate control in the hands of a single entity or small group of maintainers, creating potential bottlenecks and single points of failure in governance decisions. This centralized approach can lead to licensing changes that don't reflect the community's needs, as seen in numerous high-profile relicensing controversies.
@@ -183,12 +181,14 @@ All licensing amendments, new package proposals, contributor compensation decisi
 
 ### Voting Power Structure
 
-- **Founders**: 15 voting power per vote
-- **Core Maintainers** (🌟 Core): 10 voting power per vote
-- **Diamond Contributors** (💎 100+ accepted PRs): 8 voting power per vote
-- **Gold Contributors** (🥇 50+ accepted PRs): 6 voting power per vote
-- **Silver Contributors** (🥈 20+ accepted PRs): 4 voting power per vote
-- **Bronze Contributors** (🥉 10+ accepted PRs) voting power: 2 voting power per vote
+| Contributor Level | Badge | Requirements | Voting Power |
+|-------------------|-------|--------------|--------------|
+| **Founders** | - | Founding members | 15 |
+| **Core Maintainers** | 🌟 | Core team members | 10 |
+| **Diamond Contributors** | 💎 | 100+ accepted PRs | 8 |
+| **Gold Contributors** | 🥇 | 50+ accepted PRs | 6 |
+| **Silver Contributors** | 🥈 | 20+ accepted PRs | 4 |
+| **Bronze Contributors** | 🥉 | 10+ accepted PRs | 2 |
 
 ### DAO Powers and Responsibilities
 
