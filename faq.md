@@ -33,7 +33,7 @@
 
 | Question | Answer |
 |----------|--------|
-| **Where is the DAO smart contract?** | Deployed on Solana at DAO ID: dao11111111111111111111111111111111111111 |
+| **Where is the DAO smart contract?** | Deployed on Solana at DAO ID: ##################################### |
 | **Does the software phone home?** | It may collect anonymized telemetry for improvement and license compliance. Enterprise licenses can disable this. |
 | **Can I modify and redistribute the code?** | Yes, for Permitted Purposes. You must include the license, preserve copyright notices, and indicate modifications. |
 | **What happens after 1 year?** | That version becomes available under Apache 2.0 for non-commercial use. Commercial use still requires compliance with the Intentional License. |
