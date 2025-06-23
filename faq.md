@@ -27,10 +27,10 @@
 | **What is Commercial Use?** | Any use where you or your organization derives financial benefit, including: selling products/services, SaaS offerings, internal business operations, consulting, or any revenue-generating activity. |
 | **What is Non-Commercial Use?** | Use for personal projects, education, academic research, non-profit organizations (registered 501(c)(3) or equivalent), learning, experimentation, or contributing to open-source projects. |
 | **Is internal use at my company commercial?** | Yes. Any use within a for-profit organization is commercial, even if not directly revenue-generating. This includes internal tools, dashboards, or development. |
-| **My startup has no revenue yet - is that commercial?** | Yes. Intent to generate revenue makes it commercial use. However, you're free to use it if under the $100k revenue threshold and not competing. |
+| **My startup has no revenue yet - is that commercial?** | Yes. Intent to generate revenue makes it commercial use. However, you're free to use it if under the $10m revenue threshold and not competing. |
 | **Can universities use this non-commercially?** | Yes, for teaching and academic research. But if the university commercializes research results or uses it for paid training, that's commercial use. |
 | **What about hackathons and demos?** | Non-commercial if purely educational/experimental. Commercial if you're showcasing to investors or it's part of a business development process. |
-| **Is a personal blog with ads commercial?** | Technically yes if generating revenue, but falls under permitted use if your total revenue is under $100k and it's not a competing use. |
+| **Is a personal blog with ads commercial?** | Technically yes if generating revenue, but falls under permitted use if your total revenue is under $10m and it's not a competing use. |
 | **Can non-profits use this freely?** | Registered non-profits can use it non-commercially. However, revenue-generating activities by non-profits (like selling services) may constitute commercial use. |
 
 
