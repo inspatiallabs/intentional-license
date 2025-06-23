@@ -30,7 +30,6 @@
 | **My startup has no revenue yet - is that commercial?** | Yes. Intent to generate revenue makes it commercial use. However, you're free to use it if under the $10m revenue threshold and not competing. |
 | **Can universities use this non-commercially?** | Yes, for teaching and academic research. But if the university commercializes research results or uses it for paid training, that's commercial use. |
 | **What about hackathons and demos?** | Non-commercial if purely educational/experimental. Commercial if you're showcasing to investors or it's part of a business development process. |
-| **Is a personal blog with ads commercial?** | Technically yes if generating revenue, but falls under permitted use if your total revenue is under $10m and it's not a competing use. |
 | **Can non-profits use this freely?** | Registered non-profits can use it non-commercially. However, revenue-generating activities by non-profits (like selling services) may constitute commercial use. |
 
 
