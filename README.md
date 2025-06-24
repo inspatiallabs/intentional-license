@@ -75,8 +75,6 @@
 
 - **Enterprise License**: A separate commercial agreement required for any use of the Software that constitutes a Competing Use, or for whitelabeling the Software.
 
-- **DAO**: The decentralized autonomous organization, InSpatial DAO, responsible for the governance and stewardship of the Software and this License.
-
 ## License Grant
 
 Subject to your compliance with these Terms and Conditions, including the Patents, Redistribution, and Trademark clauses below, InSpatial Labs hereby grants you a worldwide, royalty-free, non-exclusive, perpetual, non-sublicensable license to:
