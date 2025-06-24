@@ -171,56 +171,5 @@ Licensing tiers and options can be found on the official website https://www.ins
 ## Powered by InSpatial Attribution
 Unless you have an Enterprise License that waives this requirement, any application or service that incorporates any of the InSpatial core pipeline or Software must display "Powered by InSpatial" or similar attribution as seen on InSpatial Media Kit in a reasonably visible location (such as a splash screen, about dialog, or footer) in accordance with our attribution guidelines.
 
-## DAO Governance
-
-Licensor authority and ongoing governance for this license is assigned to a smart contract deployed to:
-
-**Solana DAO ID**: ##############################
-
-All licensing amendments, new package proposals, contributor compensation decisions, and changes to governance rules are made on-chain through proposals and weighted contributor votes, as defined in the DAO contract. The DAO's smart contract source is licensed under this same Intentional License 1.0 and managed via inspatial_dao on-chain.
-
-### Voting Power Structure
-
-| Contributor Level | Badge | Requirements | Voting Power |
-|-------------------|-------|--------------|--------------|
-| **Founders** | - | Founding members | 15 |
-| **Core Maintainers** | 🌟 | Core team members | 10 |
-| **Diamond Contributors** | 💎 | 100+ accepted PRs | 8 |
-| **Gold Contributors** | 🥇 | 50+ accepted PRs | 6 |
-| **Silver Contributors** | 🥈 | 20+ accepted PRs | 4 |
-| **Bronze Contributors** | 🥉 | 10+ accepted PRs | 2 |
-
-### DAO Powers and Responsibilities
-
-DAO participants have real governance power to:
-
-1. **Prioritize Roadmap Features** - Reorder the development roadmap based on community needs
-2. **Accept/Reject Pull Requests** - Vote on significant code contributions and architectural changes
-3. **Allocate Treasury Funds** - Direct funding to bounties, grants, and development initiatives
-4. **Modify License Terms** - Propose and vote on changes to this Intentional License
-5. **Set Revenue Thresholds** - Adjust the $10m enterprise licensing threshold annually
-6. **Grant License Exemptions** - Waive licensing requirements for open source projects or nonprofits
-7. **Release Features Early** - Vote to release enterprise features to community edition
-8. **Approve Enterprise Deals** - Review and approve custom enterprise licensing agreements
-9. **Distribute Rewards** - Allocate tokens/rewards to contributors based on impact
-10. **Create Working Groups** - Establish specialized committees for security, design, or features
-11. **Veto Harmful Changes** - Block updates that compromise security or user privacy
-12. **Set Attribution Rules** - Modify "Powered by InSpatial" display requirements
-13. **Manage Integrations** - Approve official extensions, integrations, and partnerships
-14. **Control Release Cycles** - Decide on LTS versions and support timelines
-15. **Audit Smart Contracts** - Commission security audits and implement fixes
-16. **Modify Voting Weights** - Adjust voting power distribution through super-majority
-17. **Blacklist Bad Actors** - Remove voting rights from members violating community guidelines
-18. **Create Bounty Programs** - Establish bug bounties and feature development rewards
-19. **Sunset Old Versions** - Transition older versions to more permissive licenses
-20. **Emergency Response** - Fast-track critical security patches with reduced quorum
-
-### Proposal Requirements
-
-- **Standard Proposals**: 100 total voting power to submit, 7-day voting period
-- **Emergency Proposals**: 500 total voting power to submit, 48-hour voting period
-- **License Modifications**: 1000 total voting power to submit, 30-day voting period
-- **Quorum**: 10% of active voting power must participate for valid results
-
 ## Important Note
 > This license applies to self-hosted installations or use of InSpatial software. Users of the managed InSpatial platform (The "InSpatial App") are automatically assigned the appropriate license based on their selected subscription plan. Managed platform users do not need to concern themselves with the licensing details herein, as their usage rights are determined by their service agreement.
