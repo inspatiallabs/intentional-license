@@ -55,20 +55,6 @@
 ╚══════╝╚═╝ ╚═════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝     ╚═╝╚═╝ ╚═════╝
 ``` 
 
-## Preamble
-
-In an era where open-source innovation drives technological advancement, the spirit of collaboration and shared progress is paramount. However, traditional open-source licensing models often concentrate control in the hands of a single entity or small group of maintainers, creating potential bottlenecks and single points of failure in governance decisions. This centralized approach can lead to licensing changes that don't reflect the community's needs, as seen in numerous high-profile relicensing controversies.
-
-The open-source ecosystem faces challenges, particularly when projects developed with significant community effort are subsequently re-packaged and commercialized in a manner that undermines the original intent of their creators and contributors. This often occurs when open-source software, freely available for use, modification, and distribution, is incorporated into proprietary products or services that directly compete with the original open-source offering or its derivatives, without a reciprocal contribution back to the community or a fair commercial arrangement with the original developers.
-
-InSpatial Labs is pioneering a revolutionary approach: decentralized license governance. By placing licensing decisions in the hands of a Decentralized Autonomous Organization (DAO), we ensure that the community that builds, uses, and depends on the software also controls its licensing destiny. This model prevents unilateral relicensing, ensures transparency in governance, and creates a truly community-owned project where contributors have real voting weight proportional to their involvement.
-
-We believe in the power of open source to democratize technology and accelerate innovation. Yet, we also recognize the need for a licensing framework that protects the integrity of open-source projects from exploitative practices, while ensuring that governance remains distributed and resistant to capture. This decentralized approach ensures that the efforts of developers are respected and that the open-source community can thrive without its foundational work being leveraged for purely private gain without proper acknowledgment or compensation.
-
-This license, the Intentional License 1.0, is designed to address these concerns by establishing clear boundaries for commercial use, particularly concerning competitive offerings, while maintaining the core tenets of open-source freedom for non-competing applications. Uniquely, the license itself is governed by smart contracts on the Solana blockchain, making it the first truly decentralized software license where amendments, exceptions, and interpretations are decided through transparent on-chain voting.
-
-This license aims to strike a balance: to encourage widespread adoption and innovation, to permit and even encourage commercial use that is aligned with the project's goals, but to prevent the direct commercialization of the software in a way that directly competes with the original project or its commercial offerings without a specific enterprise agreement. Most importantly, it ensures that these decisions remain in the hands of the community through decentralized governance, creating a new paradigm for sustainable open-source development.
-By doing so, we intend to cultivate a more equitable and sustainable open-source landscape, where innovation is rewarded, the collaborative spirit is preserved, and the power to shape the project's future remains distributed among those who contribute to its success.
 
 ## Definitions
 
