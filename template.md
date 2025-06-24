@@ -27,7 +27,6 @@ In an era where open-source innovation drives technological advancement, the spi
 
 The open-source ecosystem faces challenges, particularly when projects developed with significant community effort are subsequently re-packaged and commercialized in a manner that undermines the original intent of their creators and contributors. This often occurs when open-source software, freely available for use, modification, and distribution, is incorporated into proprietary products or services that directly compete with the original open-source offering or its derivatives, without a reciprocal contribution back to the community or a fair commercial arrangement with the original developers.
 
-[COMPANY_NAME] is pioneering a revolutionary approach: decentralized license governance. By placing licensing decisions in the hands of a Decentralized Autonomous Organization (DAO), we ensure that the community that builds, uses, and depends on the software also controls its licensing destiny. This model prevents unilateral relicensing, ensures transparency in governance, and creates a truly community-owned project where contributors have real voting weight proportional to their involvement.
 
 We believe in the power of open source to democratize technology and accelerate innovation. Yet, we also recognize the need for a licensing framework that protects the integrity of open-source projects from exploitative practices, while ensuring that governance remains distributed and resistant to capture. This decentralized approach ensures that the efforts of developers are respected and that the open-source community can thrive without its foundational work being leveraged for purely private gain without proper acknowledgment or compensation.
 
@@ -56,7 +55,7 @@ By doing so, we intend to cultivate a more equitable and sustainable open-source
 
 - **Enterprise License**: A separate commercial agreement required for any use of the Software that constitutes a Competing Use, or for whitelabeling the Software.
 
-- **DAO**: The decentralized autonomous organization, [DAO_NAME], responsible for the governance and stewardship of the Software and this License.
+
 
 ## License Grant
 
