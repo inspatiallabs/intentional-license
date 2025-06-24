@@ -4,10 +4,10 @@
 
 | Question | Answer |
 |----------|--------|
-| **How does this relate to FSL (Functional Source License)?** | The Intentional License builds upon FSL's delayed open-source model but adds revolutionary decentralized governance. While FSL converts to Apache/MIT after 2 years with central control, we convert after 1 year with DAO-based community control. |
+
 | **What makes this different from traditional open-source licenses?** | Traditional licenses (MIT, Apache, GPL) are static and centrally controlled. The Intentional License is dynamic, governed by a DAO where contributors vote on changes, exceptions, and interpretations through blockchain smart contracts. |
-| **How does this compare to Business Source License (BSL)?** | Both restrict commercial use initially, but BSL has a 4-year conversion period and no community governance. We have 1-year conversion, revenue thresholds, and full DAO control over license terms. |
-| **Is this like Unity's licensing model?** | We borrowed the revenue threshold concept ($10m) but avoided controversial runtime fees. Unlike Unity's unilateral control, our community can vote to change thresholds and terms through the DAO. |
+| **How does this compare to Business Source License (BSL)?** | Both restrict commercial use initially, but BSL has a 4-year conversion period and no community governance. 
+
 
 ## General Questions
 
@@ -33,21 +33,12 @@
 | **Can non-profits use this freely?** | Registered non-profits can use it non-commercially. However, revenue-generating activities by non-profits (like selling services) may constitute commercial use. |
 
 
-## DAO Governance Questions
 
-| Question | Answer |
-|----------|--------|
-| **How do I participate in governance?** | Get a verified account (1 vote weight) or contribute code. More accepted PRs = more governance weight, from Bronze (10+ PRs) to Diamond (100+ PRs). |
-| **What can the DAO actually control?** | Everything from feature prioritization and PR acceptance to license terms, revenue thresholds, treasury allocation, and emergency security responses. |
-| **How much voting weight do contributors get?** | General members: 1x, Active (5+ PRs): 2x, Bronze: 3x, Silver: 4x, Gold: 6x, Diamond: 8x, Core Maintainers: 10x, Founders: 15x |
-| **Can the DAO change the license fundamentally?** | Yes, with high thresholds. License modifications require 1000 governance weight to propose and 30-day voting period. |
-| **What prevents hostile takeover of the DAO?** | Weighted voting (founders/core maintainers have more weight), high proposal thresholds, and the ability to blacklist bad actors protect against attacks. |
 
 ## Technical Questions
 
 | Question | Answer |
 |----------|--------|
-| **Where is the DAO smart contract?** | Deployed on Solana at DAO ID: ##################################### |
 | **Does the software phone home?** | It may collect anonymized telemetry for improvement and license compliance. Enterprise licenses can disable this. |
 | **Can I modify and redistribute the code?** | Yes, for Permitted Purposes. You must include the license, preserve copyright notices, and indicate modifications. |
 | **What happens after 1 year?** | That version becomes available under Apache 2.0 for non-commercial use. Commercial use still requires compliance with the Intentional License. |
