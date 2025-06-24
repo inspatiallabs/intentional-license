@@ -5,18 +5,11 @@
 | Question | Answer |
 |----------|--------|
 
-| **What makes this different from traditional open-source licenses?** | Traditional licenses (MIT, Apache, GPL) are static and centrally controlled. The Intentional License is dynamic, governed by a DAO where contributors vote on changes, exceptions, and interpretations through blockchain smart contracts. |
 | **How does this compare to Business Source License (BSL)?** | Both restrict commercial use initially, but BSL has a 4-year conversion period and no community governance. 
-
-
-## General Questions
-
-| Question | Answer |
-|----------|--------|
 | **Do I need this license if I use the managed InSpatial platform?** | No. Managed platform users are automatically licensed based on their subscription plan. This license only applies to self-hosted installations. |
 | **What is a "Competing Use"?** | Any commercial product/service that: (1) substitutes for InSpatial, (2) substitutes for InSpatial's commercial offerings, or (3) offers substantially similar functionality. |
-| **When do I need an Enterprise License?** | You need one if: (1) your company has >$10m annual revenue, (2) you're making a Competing Use, or (3) you want to whitelabel the software. |
-| **Can I use this for my startup?** | Yes! If your revenue is under $10m annually and you're not creating a competing product, you can use it freely with attribution. |
+| **When do I need an Enterprise License?** | You need one if: (1) your company has >$2m annual revenue, (2) you're making a Competing Use, or (3) you want to whitelabel the software. |
+| **Can I use this for my startup?** | Yes! If your revenue is under $2m annually and you're not creating a competing product, you can use it freely with attribution. |
 | **What's the "Powered by InSpatial" requirement?** | Non-enterprise users must display attribution in a visible location (splash screen, footer, about dialog). Enterprise licenses can waive this. |
 
 
@@ -31,7 +24,6 @@
 | **Can universities use this non-commercially?** | Yes, for teaching and academic research. But if the university commercializes research results or uses it for paid training, that's commercial use. |
 | **What about hackathons and demos?** | Non-commercial if purely educational/experimental. Commercial if you're showcasing to investors or it's part of a business development process. |
 | **Can non-profits use this freely?** | Registered non-profits can use it non-commercially. However, revenue-generating activities by non-profits (like selling services) may constitute commercial use. |
-
 
 
 
